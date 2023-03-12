@@ -1,0 +1,15 @@
+{
+  "ms": 631,
+  "query": "*[_type == \"user\" \u0026\u0026 _id == '117830089723558160117' ]",
+  "result": [
+    {
+      "_createdAt": "2023-03-12T09:38:32Z",
+      "_id": "117830089723558160117",
+      "_rev": "5ZTnVWRJBflyPAS4lOlmqB",
+      "_type": "user",
+      "_updatedAt": "2023-03-12T09:38:32Z",
+      "image": "https://lh3.googleusercontent.com/a/AGNmyxZE4pyyLcox72v5Wf4awDGIyJ-ojAmJlbVyi91IBw=s96-c",
+      "userName": "Abid Arif"
+    }
+  ]
+}

@@ -60,6 +60,8 @@ const Login = () => {
           // const picture = res.data.picture;
           // const verifiedEmail = res.data.verified_email;
 
+          localStorage.setItem('user', JSON.stringify(res.data));
+
           const { name, email, id, picture } = res.data;
           console.log(name, email, id, picture);
 
